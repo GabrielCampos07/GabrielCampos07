@@ -5,7 +5,7 @@
 
 ⚜️ I'm a system analyst in [@SoftWillians](https://www.softwillians.com.br) and sixth period student of Computer engineering at [@anhembimorumbi](https://portal.anhembi.br).
 
-🚀 Programming in .NET, Angular, soon here will get NodeJS and ReactJS.
+🚀 Programming in .NET, Angular, NodeJS and ReactJS.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCampos07&count_private=true&show_icons=true&hide=issues,contribs,stars&theme=radical)](https://github.com/GabrielCampos07)
 
