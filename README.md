@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel Campos 🤟
+### Hi there, I'm Gabriel Campos 🤟 Recruiter, I have 24 repositories, I can't let them all open, but I can show you if you gimme a chance ;)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcampos07/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.c.depaula@gmail.com)
